@@ -15,4 +15,4 @@ Repositório para armazenar resumos sobre Git e GitHub do curso Versionamento de
 ```
 git init
 ```
- [BTS]()
+ [BTS](https://ibighit.com/bts/eng/)
